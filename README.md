@@ -1,7 +1,7 @@
 
 
 ## About Me
-
+![EastOst's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastOst&show_icons=true&theme=radical)
 I am a first-year university student.
 
 I can handle Python, C, Java, and a little bit of C#.  
