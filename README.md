@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**EastOst/EastOst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year university student.
 
-Here are some ideas to get you started:
+I can handle Python, C, Java, and a little bit of C#.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently interested in making apps, data science, mechine learning, natural language processing (NLP), and security and privacy.
+
+## What I Did or I Am Doing
+
+- **Chat Analysis Projects**: Worked on analyzing chat data using Python (Pandas, regular expressions) to extract meaningful insights such as user activity patterns. I plan to enhance it by using machine learning.
+
+- **Robotics Team Project**: Collaborating on a team project to develop a robot with advanced features such as speech recognition, emotion expression, and conversation capabilities. We plan to integrate machine learning to enhance the robot’s interactions and decision-making processes.
+
+- **Mac OS Diary App Project**: Currently developing a diary app for Mac.
