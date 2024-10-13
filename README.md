@@ -15,4 +15,4 @@ I am currently interested in making apps, data science, mechine learning, natura
 
 
 - **Mac OS Diary App Project**: Currently developing a diary app for Mac.
-- **2D Shooting Game (Unity)**: Developed a 2D shooting game using Unity C#.
+- **2D Shooting Game (Unity)**: Collaborated on a team project to develop a 2D shooting game using Unity C#.
