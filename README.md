@@ -9,6 +9,8 @@ I can handle Python, C, Java, and a little bit of C#.
 
 I am currently interested in making apps, data science, mechine learning, natural language processing (NLP), and security and privacy.
 
+For inquiries or collaboration, feel free to reach me at remindsemicolon@proton.me.
+
 ## What I Did or I Am Doing
 
 - **Chat Analysis Projects**: Worked on analyzing chat data using Python (Pandas, regular expressions) to extract meaningful insights such as user activity patterns. I plan to enhance it by using machine learning.
