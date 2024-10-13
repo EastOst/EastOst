@@ -5,7 +5,7 @@
 I am a first-year university student.
 
 I can handle Python, C, Java, and a little bit of C#.  
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cs)](https://skillicons.dev)
 
 I am currently interested in making apps, data science, mechine learning, natural language processing (NLP), and security and privacy.
 
